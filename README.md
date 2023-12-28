@@ -1,6 +1,6 @@
 # Pokemon Application using React 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Implementing basic pagination using Pokemon API.
 
 ## Available Scripts
 
