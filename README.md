@@ -1,6 +1,6 @@
 # Pokemon Application using React 
 
-Implementing basic pagination using Pokemon API.
+Implementing basic pagination using the Pokemon API.
 
 ## Available Scripts
 
